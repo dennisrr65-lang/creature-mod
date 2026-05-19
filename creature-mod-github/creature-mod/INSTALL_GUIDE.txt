@@ -1,0 +1,22 @@
+── INSTALLASJON ──────────────────────────────────────
+
+1. Installer Fabric 1.21.1
+   → fabricmc.net/use/installer
+
+2. Last ned Fabric API for 1.21.1
+   → modrinth.com/mod/fabric-api
+   → Legg i .minecraft/mods/
+
+3. Bygg moden:
+   Åpne terminal i denne mappen, kjør:
+   > gradlew build          (Windows)
+   > ./gradlew build        (Mac/Linux)
+
+4. Kopier .jar til mods-mappen:
+   build/libs/creature-mod-1.0.0.jar
+   → .minecraft/mods/
+
+5. Start Minecraft med Fabric-profil
+
+6. Spawn mobs med /summon-kommandoer
+   (Se MOB_GUIDE.txt for full liste)

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "creature_mod",
+  "version": "1.0.0",
+  "name": "Creature Mod",
+  "description": "15+ nye dyr, monstre og NPC-er",
+  "authors": ["deg"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.creatures.mod.CreatureMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1"
+  }
+}

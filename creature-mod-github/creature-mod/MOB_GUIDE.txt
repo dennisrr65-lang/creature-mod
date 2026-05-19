@@ -1,0 +1,47 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   CREATURE MOD – 16 NYE SKAPNINGER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+── SPAWN-KOMMANDOER ──────────────────────────────────
+
+DYR:
+  /summon creature_mod:elk
+  /summon creature_mod:grizzly_bear
+  /summon creature_mod:eagle
+  /summon creature_mod:tortoise
+  /summon creature_mod:firefly
+  /summon creature_mod:manta_ray
+
+MONSTRE:
+  /summon creature_mod:stone_troll
+  /summon creature_mod:shadow_wisp
+  /summon creature_mod:deep_crawler
+  /summon creature_mod:frost_walker
+  /summon creature_mod:mire_ghoul
+  /summon creature_mod:crystal_golem
+
+NPC-ER (høyreklikk for handel):
+  /summon creature_mod:blacksmith       → Smed Erik (sverd, verktøy)
+  /summon creature_mod:witch_doctor     → Hekselegen Mara (potions)
+  /summon creature_mod:explorer         → Oppdageren Lars (kart, elytra)
+  /summon creature_mod:farmer_npc       → Bonde Sigrid (mat, frø)
+
+── MOB-INFO ──────────────────────────────────────────
+
+Elg           30 HP  | Flykter fra spillere
+Grizzlybjørn  40 HP  | Nøytral, angriper hvis skadet
+Ørn           12 HP  | Flyr over terrenget
+Skilpadde     50 HP  | Veldig treg, 10 rustning
+Ildflue        4 HP  | Glødende, flyr rundt
+Mantarokke    25 HP  | Svømmer i hav
+
+Steintroll    80 HP  | Stor og sterk, 8 rustning
+Skyggeånde    30 HP  | Teleporterer ved lav HP
+Dypkryp       35 HP  | Rask, kryper langs bakken
+Frostvanker   45 HP  | Fryser vann til is
+Myrghul       28 HP  | Sumpmonster
+Krystallgolem 120 HP | Boss-level, 12 rustning, immun til knockback
+
+── INSTALLASJON ──────────────────────────────────────
+Se INSTALL_GUIDE.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
